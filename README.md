@@ -24,7 +24,7 @@ While the original model from the book includes various extensions such as sexua
     5. Mesa Visualization:
         The Mesa Visualization library is used to create an interactive interface, enabling users to step through the simulation and observe changes in agent behavior, resource distributions, and network dynamics.
 
-# Innovations and Additions
+# Additions
 This project expands on the original model by integrating additional visualization and analysis tools to enhance understanding of the emergent phenomena:
 
     1. Interactive 2D and 3D Network Graphs:
