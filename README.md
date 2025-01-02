@@ -1,5 +1,5 @@
 # Project Overview
-This is angent based model based of the This project is an Agent-Based Model (ABM) implemented using the Python-based Mesa library. The model is inspired by the seminal work "Growing Artificial Societies" by Joshua M. Epstein and Robert Axtell, which introduces the Sugar and Spice Model—a framework for exploring economic, social, and ecological dynamics in artificial societies.
+This project is an Agent-Based Model (ABM) implemented using the Python-based Mesa library. The model is inspired by the seminal work "Growing Artificial Societies" by Joshua M. Epstein and Robert Axtell, which introduces the Sugar and Spice Model, a framework for exploring economic, social, and ecological dynamics in artificial societies.
 
 # Model Overview
 The Sugar and Spice Model is a conceptual ABM where agents inhabit a spatial grid with resources (sugar and spice) distributed unevenly. Each agent has individual preferences, metabolisms, and strategies for gathering, consuming, and trading resources. The overarching goal is to investigate emergent patterns of trade, wealth distribution, social networks, and resource usage.
